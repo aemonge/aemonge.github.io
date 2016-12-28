@@ -80,11 +80,11 @@ Online Banking (s|ngular / BBVA Compass) (Spain)
   __2013-2014__
  I was responsable of the development and maintenance of the module of the app that we as a team developed. We were using FlighJS as our main framework, and under SCRUM workflow and using Git­flow. It was a project that relay heavily on template engines a few JavaScript components, which I was the main developer.
 
-Component Catalogue (Adesis / Maphre)  (Spain)
+Component Catalogue (Adesis / Mapfre)  (Spain)
 : *Front-End Architect / Expert Developer*
   __2013-2013__
  I was responsible for code reviews, code analysis and quality assurance that the developers (from the architecture
- department) of the client (Maphre) delivered. I had improve the current developers skills, practices and encourage them become better developers. Our main area of focus was JavaScript, Angular, CSS and Jade as the template engine.
+ department) of the client (Mapfre) delivered. I had improve the current developers skills, practices and encourage them become better developers. Our main area of focus was JavaScript, Angular, CSS and Jade as the template engine.
 
 Personal Finance Manager (Adesis)  (Spain)
 : *Front-End Architect*
