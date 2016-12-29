@@ -93,7 +93,7 @@ Personal Finance Manager @ Adesis
  In a little over a month and a half, I've develop by my self a fully operational finance manager. Provided with the
  graphical designes I build the app using nodeJS (sails) and AngularJs from scratch. I've made the all the decisions including the architecture, technologies and work-methodology.
 
-RedPacientes, social network @ (CBI)
+RedPacientes, social network @ CBI
 : *Full-Stack Developer* (spain)
  __2011-2013__
  Writing my back-end code mainly with SQL functions, and PHP s imply as a conector between SQL and JS (for the front-end).
