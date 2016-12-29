@@ -1,6 +1,7 @@
 # Andres Monge
 ## Front-End Architect, Senior Full-Stack Developer
 
+> [Download PDF](resume.pdf)
 > [xxxx@xxx](xxxx@xxx.com)
 > (###) ###-####
 
@@ -127,6 +128,7 @@ Internship and S.E.O. @ KnowCentury
 
 ### Footer {#footer}
 
-Andres Monge -- [xxxx@xxx](xxxx@xxx) -- (###) ###-####
+Github: [https://github.com/aemonge](https://github.com/aemonge)
+Stack Overflow: [http://stackoverflow.com/users/1360897/aemonge](http://stackoverflow.com/users/1360897/aemonge)
 
 ------
