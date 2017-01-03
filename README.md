@@ -3,7 +3,7 @@
 
 > [Download PDF](resume.pdf)
 > [xxxx@xxx](xxxx@xxx.com)
-> (###) ###-####
+> (415) 619-8705
 
 ------
 
