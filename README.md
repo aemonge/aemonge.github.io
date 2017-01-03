@@ -43,7 +43,7 @@ Translate requirements and mock-ups into fully functioning features using both, 
 
 -------
 
-### Middle-End {#middleEnd}
+### Back-End {#backEnd}
 
 1. PHP, 3 years. Advanced
 1. nodeJS, 1 years. Standard
@@ -51,7 +51,7 @@ Translate requirements and mock-ups into fully functioning features using both, 
 
 -------
 
-### Back-End {#backEnd}
+### Databases {#databases}
 
 1. MySQL, 3 years. Advanced
 1. mongoDB, 1 years. Standard
