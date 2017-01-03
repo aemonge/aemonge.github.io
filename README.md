@@ -34,6 +34,12 @@ Translate requirements and mock-ups into fully functioning features using both, 
 1. JavaScript, 8 years. Master
 1. XHTML, 8 years. Master
 1. CSS/SASS/LESS, 8 years. Master
+1. (JS) Polymer 1 year
+1. (JS) React 1 year
+1. (JS) React-Native 1 year
+1. (JS) FlighJS 1 year
+1. (JS) AngularJS 2 year
+1. (JS) BackboneJS 2 year
 
 -------
 
@@ -56,7 +62,7 @@ Translate requirements and mock-ups into fully functioning features using both, 
 
 1. Linux, 10 years. Master
 1. Apache, 3 years. Advanced
-1. nginx, 3 years. User
+1. nginx, 3 years. Standard
 
 -------
 
@@ -70,13 +76,15 @@ Translate requirements and mock-ups into fully functioning features using both, 
 
 ### Platforms {#Platforms}
 
-1. Cordova (iOs, Android, Windows Tablets), 1 years. User
+1. Cordova / iOs, 1 years. Standard
+1. Cordova / Android, 1 years. Standard
+1. Cordova / Windows Tablets, 1 years. Standard
 
 -------
 
-### Miscellaneous {#miscellaneous}
+### Tools {#tools}
 
-1. Vi, 5 years. Jedi
+1. Vi, 5 years. Master
 1. MarkDown, 3 years. Master
 
 ------
