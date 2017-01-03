@@ -108,13 +108,13 @@ Online Banking @ s|ngular / BBVA Compass
 
 Component Catalogue @ Adesis / Mapfre
 : *Front-End Architect / Expert Developer* (spain)
-  __2013-2013__
+  __2013__
  I was responsible for code reviews, code analysis and quality assurance that the developers (from the architecture
  department) of the client (Mapfre) delivered. I had improve the current developers skills, practices and encourage them become better developers. Our main area of focus was JavaScript, Angular, CSS and Jade as the template engine.
 
 Personal Finance Manager @ Adesis
 : *Front-End Architect* (spain)
-  __2013-2013__
+  __2013__
  In a little over a month and a half, I've develop by my self a fully operational finance manager. Provided with the
  graphical designes I build the app using nodeJS (sails) and AngularJs from scratch. I've made the all the decisions including the architecture, technologies and work-methodology.
 
