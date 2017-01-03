@@ -29,38 +29,54 @@ Translate requirements and mock-ups into fully functioning features using both, 
 
 -------
 
-### Object Oriented Languages {#technicalOO}
+### Front-End {#frontEnd}
 
-1. JavaScript, 8 years. Jedi
-1. PHP, 3 years. Advanced
-1. Ruby/Rails, 1 year. Advanced
-
--------
-
-### Functional Languages {#technicalFn}
-
-1. MySQL, 3 years. Master
-1. Haskell, 6 months. Beginner
-1. Prolog, 6 months. Beginner
-
--------
-
-### Servers {#technicalAdm}
-
-1. Linux, 10 years. Master
-1. Vi, 5 years. Jedi
-1. Git, 5 years. Master
-1. Jira, 3 years. Advanced
-1. Apache, 3 years. Advanced
-1. nginx, 3 years. User
-1. Cordova, 1 years. User
-
--------
-
-### Markup Languages {#technicalFn}
-
+1. JavaScript, 8 years. Master
 1. XHTML, 8 years. Master
 1. CSS/SASS/LESS, 8 years. Master
+
+-------
+
+### Middle-End {#middleEnd}
+
+1. PHP, 3 years. Advanced
+1. nodeJS, 1 years. Standard
+1. Ruby/Rails, 1 year. Standard
+
+-------
+
+### Back-End {#backEnd}
+
+1. MySQL, 3 years. Advanced
+1. mongoDB, 1 years. Standard
+
+-------
+
+### Servers {#servers}
+
+1. Linux, 10 years. Master
+1. Apache, 3 years. Advanced
+1. nginx, 3 years. User
+
+-------
+
+### Work Flows {#workFlow}
+
+1. Git, 5 years. Master
+1. Svn, 3 years. Standar
+1. Jira, 3 years. Advanced
+
+-------
+
+### Platforms {#Platforms}
+
+1. Cordova (iOs, Android, Windows Tablets), 1 years. User
+
+-------
+
+### Miscellaneous {#miscellaneous}
+
+1. Vi, 5 years. Jedi
 1. MarkDown, 3 years. Master
 
 ------
