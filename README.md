@@ -92,7 +92,7 @@ Translate requirements and mock-ups into fully functioning features using both, 
 ### Experience {#experience}
 
 TabletBanking @ s|ngular / BBVA Compass
-: *Front-End team leader* (usa)
+: *Front-End Architect / Team leader* (usa)
   __2015-2016__
  My responsibilities included to analyze and give project estimations and plans, monitor our teams quality code, improve team skills, code in front-end languages, implement TDD as much as posible. Also ensure the team is learning more skills and become more valuable. We created 200 different Polymer.js components, used bower to linking them all together in a Cordova App, which we deployed to iOs, Android and Windows tablets.
 
@@ -105,6 +105,13 @@ Online Banking @ s|ngular / BBVA Compass
 : *Front-End developer* (spain)
   __2013-2014__
  I was responsable of the development and maintenance of the module of the app that we as a team developed. We were using FlighJS as our main framework, and under SCRUM workflow and using Git­flow. It was a project that relay heavily on template engines a few JavaScript components, which I was the main developer.
+
+Universidad Rey Juan Carlos
+: *Web Developer* (spain)
+  __2013__
+ I was responsible of creating a dynamic template and plugins under Joomla to build their entire website. We also had to restructure the entire site-map and organize their information. The template that was built incorporated a editor to easily create new content with the design patterns the site was build with. It's mostly based on CSS and poly-fills in the front-end, and a few Joomla/PHP plugins and JavaScript modules to alter the site from the back-end.
+
+ https://www.urjc.es/
 
 Component Catalogue @ Adesis / Mapfre
 : *Front-End Architect / Expert Developer* (spain)
@@ -147,6 +154,10 @@ Internship and S.E.O. @ KnowCentury
 : *Full-Stack Developer* (spain)
  __2008-2009__
  I worked here as my internship the first six moths and after that I was laddering the new department of search engine optimization (SEO). One of my biggest achievements was holding on the words: “comprar oro” (“buy gold”) as the second result for 5 months, and the first result for some days.
+
+------
+
+### Testimonials {#testimonials}
 
 ------
 
