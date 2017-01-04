@@ -1,9 +1,8 @@
 # Andres Monge
 ## Front-End Architect, Senior Full-Stack Developer
 
+> +1 (415) 619-8705
 > [Download PDF](resume.pdf)
-> [xxxx@xxx](xxxx@xxx.com)
-> (415) 619-8705
 
 ------
 
@@ -172,6 +171,9 @@ Internship and S.E.O. @ KnowCentury
 ### Footer {#footer}
 
 Github: [https://github.com/aemonge](https://github.com/aemonge)
+<br />
+npm: [https://www.npmjs.com/~aemonge](https://www.npmjs.com/~aemonge)
+<br />
 Stack Overflow: [http://stackoverflow.com/users/1360897/aemonge](http://stackoverflow.com/users/1360897/aemonge)
 
 ------
