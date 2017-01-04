@@ -96,6 +96,8 @@ TabletBanking @ s|ngular / BBVA Compass
   __2015-2016__
  My responsibilities included to analyze and give project estimations and plans, monitor our teams quality code, improve team skills, code in front-end languages, implement TDD as much as posible. Also ensure the team is learning more skills and become more valuable. We created 200 different Polymer.js components, used bower to linking them all together in a Cordova App, which we deployed to iOs, Android and Windows tablets.
 
+ [https://play.google.com/store/apps/details?id=com.bbva.compass.cells.enterprise](https://play.google.com/store/apps/details?id=com.bbva.compass.cells.enterprise)
+
 Hoy Necesito @ s|ngular / BBVA
 : *Front-End team leader* (spain)
   __2014-2015__
@@ -106,12 +108,14 @@ Online Banking @ s|ngular / BBVA Compass
   __2013-2014__
  I was responsable of the development and maintenance of the module of the app that we as a team developed. We were using FlighJS as our main framework, and under SCRUM workflow and using Git­flow. It was a project that relay heavily on template engines a few JavaScript components, which I was the main developer.
 
+ [http://bbvacompass.com/](http://bbvacompass.com/)
+
 Universidad Rey Juan Carlos
 : *Web Developer* (spain)
   __2013__
  I was responsible of creating a dynamic template and plugins under Joomla to build their entire website. We also had to restructure the entire site-map and organize their information. The template that was built incorporated a editor to easily create new content with the design patterns the site was build with. It's mostly based on CSS and poly-fills in the front-end, and a few Joomla/PHP plugins and JavaScript modules to alter the site from the back-end.
 
- https://www.urjc.es/
+ [https://www.urjc.es/](https://www.urjc.es/)
 
 Component Catalogue @ Adesis / Mapfre
 : *Front-End Architect / Expert Developer* (spain)
@@ -131,11 +135,15 @@ RedPacientes, social network @ CBI
  Writing my back-end code mainly with SQL functions, and PHP s imply as a conector between SQL and JS (for the front-end).
  At this company I help developing modules of a big app they were creating. They wanted to create a CRM similar to SAP. This app was being supported by IE7 and greater besides modern browsers. Everything done with a proprietary framework which we also had to maintain and update.
 
+ [http://redpacientes.com/](http://redpacientes.com/)
+
 No llores Patito
 : *Full-Stack Developer* (spain)
  __2011__
  Online shop, created with a custom framework similar to CakePHP. The main focus was over the framework built on PHP,
  the front-end was basically tweaking a pre bough template.
+
+ [http://www.nollorespatito.com/](http://www.nollorespatito.com/)
 
 Ananda Pascual
 : *Full-Stack Developer* (spain)
@@ -144,20 +152,20 @@ Ananda Pascual
  I’ve also developed a TPV (payment conector) to integrate with CajaMar and CajaSol,  and a API integration with real-time stock handling by
  external company "seleris".
 
+ [http://www.anandapascual.eu/](http://www.anandapascual.eu/)
+
 Los hijos de la Malinche
 : *Full-Stack Developer* (mexico)
  __2008-2010__
  Which is a electronic political and opinionated maganized. It mainly sponsored by the mexican newspape Reforma. I’ve
  used Drupal as the content manager, and created both back-end (the admin manager site) and front-end templates. Front-end has done with jQuery
 
+ [http://www.loshijosdelamalinche.com/](http://www.loshijosdelamalinche.com/)
+
 Internship and S.E.O. @ KnowCentury
 : *Full-Stack Developer* (spain)
  __2008-2009__
  I worked here as my internship the first six moths and after that I was laddering the new department of search engine optimization (SEO). One of my biggest achievements was holding on the words: “comprar oro” (“buy gold”) as the second result for 5 months, and the first result for some days.
-
-------
-
-### Testimonials {#testimonials}
 
 ------
 
