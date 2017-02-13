@@ -93,7 +93,7 @@ Translate requirements and mock-ups into fully functioning features using both, 
 TabletBanking @ s|ngular / BBVA Compass
 : *Front-End Architect / Team leader* (usa)
   __2015-2016__
- As a team-lead, I’ve successfully guided the team into analyze and give project estimations and plans, develop under a TDD methodology over 200 different Polymer.js components; which all together created a Cordova App wrapper to build the TabletBanking app for iOs, Android and Windows tablets; also the web version.
+ As an architect, I’ve successfully guided the team into analyze and give project estimations and plans, develop under a TDD methodology over 200 different Polymer.js components; which all together created a Cordova App wrapper to build the TabletBanking app for iOs, Android and Windows tablets; also the web version.
 
  [https://play.google.com/store/apps/details?id=com.bbva.compass.cells.enterprise](https://play.google.com/store/apps/details?id=com.bbva.compass.cells.enterprise)
 
