@@ -1,6 +1,6 @@
 # Andres Monge
 
-## Software Front-end Architect, Senior Full-Stack Developer
+## Software Front-end Architect
 
 > +34 (622) 505-729
 > [Download PDF](resume.pdf)
