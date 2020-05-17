@@ -116,8 +116,7 @@ SIO-100 (a Artificial Intelligence project) @ bonial / kaufda.be
 : _Front-End Architect / Team leader_ (Germany)
 **2016-2017**
 As an architect, I've decided to use Polymer for the project (AI decisions confirmations) since the team is distributed in small standalone micro-services so relaying on scope protection and encapsulation that polymer provides increased the productivity of the front-end screens. Replicated the environment of previews projects TDD, CI, Artifactory and an atomic modular designe pattern.
-
-[https://www.kaufda.de/webapp/de/shelf/52.520008/13.404954](kaufda)
+[kaufda](https://www.kaufda.de/webapp/de/shelf/52.520008/13.404954)
 
 TabletBanking @ s|ngular / BBVA Compass
 : _Front-End Architect / Team leader_ (USA)
@@ -126,7 +125,7 @@ As an architect, I’ve successfully guided a junior team with five team members
 feature requested by product owner and architects. We used a TDD methodology and a component-based project adding up to
 230 (Polymer.js) web-components. We delivered to tablet, mobile and desktop applications using contiguous integration (jenkins), Cordova and artifactory to host the components as dependencies.
 
-[https://play.google.com/store/apps/details?id=com.bbva.compass.cells.enterprise](https://play.google.com/store/apps/details?id=com.bbva.compass.cells.enterprise)
+[TabletBanking](https://play.google.com/store/apps/details?id=com.bbva.compass.cells.enterprise)
 
 Hoy Necesito @ s|ngular / BBVA
 : _Front-End team leader_ (Spain)
@@ -138,14 +137,14 @@ Online Banking @ s|ngular / BBVA Compass
 **2013-2014**
 As a senior developer I've help in the process of changing the mindset form classic MVC/jQuery into a modular/component-based development. We used FlightJs as our main framework under SCRUM/Agile workflow. The project relied on the template engine and few key JavaScript components (which I was the lead developer for).
 
-[http://bbvacompass.com/](http://bbvacompass.com/)
+[bbvacompass](http://bbvacompass.com/)
 
 Universidad Rey Juan Carlos
 : _Web Developer_ (Spain)
 **2013**
 As a full-stack developer I created a dynamic template and plugins for a Joomla based web. The initial solution was based in Word-press with an ad-hock WYSIWYG to provide the ability of creating and modifying pages. After moving the project into Joomla the template was build with a lot of flexibility.
 
-[https://www.urjc.es/](https://www.urjc.es/)
+[URJC](https://www.urjc.es/)
 
 Component Catalogue @ Adesis / Mapfre
 : _Front-End Architect / Expert Developer_ (Spain)
@@ -163,7 +162,7 @@ RedPacientes, social network @ CBI
 As a full-stack developer I used mainly SQL functions, a PHP controller and JavaScript(backbone) for the front-end.
 I Also helped developing modules of a bigger app that was being built. We were replication a CRM (such as SAP), providing support by IE7 and greater, besides modern browsers. Everything done with a proprietary framework which we also had to maintain and update.
 
-[http://redpacientes.com/](http://redpacientes.com/)
+[Red Pacientes](http://redpacientes.com/)
 
 No llores Patito
 : _Full-Stack Developer_ (Spain)
@@ -171,21 +170,21 @@ No llores Patito
 Online shop, created with a custom framework similar to CakePHP. The main focus was over the framework built on PHP,
 the front-end was basically tweaking a paid template.
 
-[http://www.nollorespatito.com/](http://www.nollorespatito.com/)
+[No Llores Patito](http://www.nollorespatito.com/)
 
 Ananda Pascual
 : _Full-Stack Developer_ (Spain)
 **2010**
 Online store for clothing. Built with osCommerce, and few ad-hock plugins to manage the landing page. There was also a TPV (payment conector) to develop and integrate with Spanish banks (CajaMar and CajaSol), and a API integration with real-time stock handling service ("seleris").
 
-[http://www.anandapascual.eu/](http://www.anandapascual.eu/)
+[Ananda Pascual](http://www.anandapascual.eu/)
 
 Los hijos de la Malinche
 : _Full-Stack Developer_ (Mexico)
 **2008-2010**
 An political and opinionated e-maganized. It mainly sponsored by the Mexican newspaper "Reforma". Built with Drupal for the content manager, and custom templates for both back-end (the admin manager site) and front-end. Front-end was improved with jQuery and jQuery plugins.
 
-[http://www.loshijosdelamalinche.com/](http://www.loshijosdelamalinche.com/)
+[Los Hijos de la Malinche](http://www.loshijosdelamalinche.com/)
 
 Internship and S.E.O. @ KnowCentury
 : _Full-Stack Developer_ (Spain)
@@ -203,3 +202,5 @@ npm: [https://www.npmjs.com/~aemonge](https://www.npmjs.com/~aemonge)
 Stack Overflow: [http://stackoverflow.com/users/1360897/aemonge](http://stackoverflow.com/users/1360897/aemonge)
 
 ---
+
+[//]: # " generated with https://github.com/there4/markdown-resume  "
