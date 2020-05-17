@@ -1,6 +1,6 @@
 # Andres Monge
 
-## Software Architect (Front-End Specialist)
+## Technical Lead / Architect
 
 > +34 (622) 505-729
 > [Download PDF](resume.pdf)
