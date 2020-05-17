@@ -9,6 +9,8 @@
 
 ### Profile {#profile}
 
+---
+
 I translate KPI's into technically requirements and tasks, detailed enough to be ready to code and abstract enough to be fully described in a business and functional language. With a full background in developing and leading I can successfully teach, coach and sustain a productive Dev team to build solutions to match the desired KPI's or any other objective.
 
 As a architectural product owner my task is to identify key components and norms that will accelerate developers teams to build a more stables, robust and attractive software.
@@ -124,7 +126,6 @@ TabletBanking @ s|ngular / BBVA Compass
 As an architect, I’ve successfully guided a junior team with five team members to estimate, analyze and develop
 feature requested by product owner and architects. We used a TDD methodology and a component-based project adding up to
 230 (Polymer.js) web-components. We delivered to tablet, mobile and desktop applications using contiguous integration (jenkins), Cordova and artifactory to host the components as dependencies.
-
 [TabletBanking](https://play.google.com/store/apps/details?id=com.bbva.compass.cells.enterprise)
 
 Hoy Necesito @ s|ngular / BBVA
@@ -136,14 +137,12 @@ Online Banking @ s|ngular / BBVA Compass
 : _Front-End developer_ (Spain)
 **2013-2014**
 As a senior developer I've help in the process of changing the mindset form classic MVC/jQuery into a modular/component-based development. We used FlightJs as our main framework under SCRUM/Agile workflow. The project relied on the template engine and few key JavaScript components (which I was the lead developer for).
-
 [bbvacompass](http://bbvacompass.com/)
 
 Universidad Rey Juan Carlos
 : _Web Developer_ (Spain)
 **2013**
 As a full-stack developer I created a dynamic template and plugins for a Joomla based web. The initial solution was based in Word-press with an ad-hock WYSIWYG to provide the ability of creating and modifying pages. After moving the project into Joomla the template was build with a lot of flexibility.
-
 [URJC](https://www.urjc.es/)
 
 Component Catalogue @ Adesis / Mapfre
@@ -161,7 +160,6 @@ RedPacientes, social network @ CBI
 **2011-2013**
 As a full-stack developer I used mainly SQL functions, a PHP controller and JavaScript(backbone) for the front-end.
 I Also helped developing modules of a bigger app that was being built. We were replication a CRM (such as SAP), providing support by IE7 and greater, besides modern browsers. Everything done with a proprietary framework which we also had to maintain and update.
-
 [Red Pacientes](http://redpacientes.com/)
 
 No llores Patito
@@ -169,21 +167,18 @@ No llores Patito
 **2011**
 Online shop, created with a custom framework similar to CakePHP. The main focus was over the framework built on PHP,
 the front-end was basically tweaking a paid template.
-
 [No Llores Patito](http://www.nollorespatito.com/)
 
 Ananda Pascual
 : _Full-Stack Developer_ (Spain)
 **2010**
 Online store for clothing. Built with osCommerce, and few ad-hock plugins to manage the landing page. There was also a TPV (payment conector) to develop and integrate with Spanish banks (CajaMar and CajaSol), and a API integration with real-time stock handling service ("seleris").
-
 [Ananda Pascual](http://www.anandapascual.eu/)
 
 Los hijos de la Malinche
 : _Full-Stack Developer_ (Mexico)
 **2008-2010**
 An political and opinionated e-maganized. It mainly sponsored by the Mexican newspaper "Reforma". Built with Drupal for the content manager, and custom templates for both back-end (the admin manager site) and front-end. Front-end was improved with jQuery and jQuery plugins.
-
 [Los Hijos de la Malinche](http://www.loshijosdelamalinche.com/)
 
 Internship and S.E.O. @ KnowCentury
