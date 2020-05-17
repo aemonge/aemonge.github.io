@@ -1,6 +1,6 @@
 # Andres Monge
 
-## Software Front-end Architect
+## Software Architect (Front-End Specialist)
 
 > +34 (622) 505-729
 > [Download PDF](resume.pdf)
@@ -27,7 +27,7 @@ _I also carry the electronic version of the curse of Cassandra. I'm able to see 
   : Experience since 2015 leading teams guiding members into their self-taught capacities, improving the value of the team as a whole. I'm recurrently able to transform junior and newbies developers into a senior quality developers.
 
 - Creative
-  : The great expand of my technology knowledge, allows me into focusing in solutions instead of softwares. Being able to combine different technologies to create new solutions inexistent in the market; such as a created tiny ad-hoc frameworks, _micro-front ends_ (back in the 2016), AI decision screens, etc...
+  : The great expand of my technology knowledge, allows me into focusing in solutions instead of softwares. Being able to combine different technologies to create new solutions inexistent in the market; such as a created tiny ad-hoc frameworks, micro-front ends (back in the 2016), AI decision screens, etc...
 
 - Result oriented
   : As the current market is trending I follow the iteration pattern development. Investing time to develop quick and small features, rather than big features in smaller deliveries. Making the process more transparent so that we can achieve better results.
