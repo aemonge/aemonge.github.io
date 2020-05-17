@@ -11,23 +11,26 @@
 
 I translate KPI's into technically requirements and tasks, detailed enough to be ready to code and abstract enough to be fully described in a business and functional language. With a full background in developing and leading I can successfully teach, coach and sustain a productive Dev team to build solutions to match the desired KPI's or any other objective.
 
-I translate requirements and mock-ups into fully functioning applications, solutions and features using the right mix of front-end (JavaScript) and back-end (Rails, nodeJS, mongoDB) technologies. As a architectural product owner my task is to identify key components and norms that will accelerate developers teams to build a more stables, robust and attractive software. As an architect I have to provide the right balance between results and maintainability, keeping up to date clients quality and quantity expectations. As a developer I invest the time making the tools to aide developers, verify correctness for following best practices, good TDD and company values.
+As a architectural product owner my task is to identify key components and norms that will accelerate developers teams to build a more stables, robust and attractive software.
 
-_I also carry the electronic version of the curse of Cassandra. I'm able to see the future of technology and any project, due to my has a clear vision of the risks and strengths of all software life cycle_
+As an architect I have to provide the right balance between results and maintainability, keeping up to date clients quality and quantity expectations.
+
+As a developer I invest the time making the tools to aide developers, verify correctness for following best practices, good TDD/SOLID and company values.
+
+_I also carry the electronic version of the curse of Cassandra. I'm able to see the future of technology and any project, due to my clear vision of the risks and strengths of all software life cycle_
 
 ---
 
 ### Skills {#skills}
 
 - Team leader
-  : Experience since 2015 leading teams of 5 developers guided the team members into their self-taught capacities, improving the value of the team as a whole. Capability to transform boot-camp developers into junior developer in less than 3 months.
+  : Experience since 2015 leading teams guiding members into their self-taught capacities, improving the value of the team as a whole. I'm recurrently able to transform junior and newbies developers into a senior quality developers.
 
 - Creative
-  : The great expand of my technology options, guides me into focusing in solutions instead of softwares. Being able to combine different technologies to create new solutions inexistent in the market; such as a created tiny ad-hoc frameworks that focused on specific business idea.
-  knowledge through meet-ups and shared coffees.
+  : The great expand of my technology knowledge, allows me into focusing in solutions instead of softwares. Being able to combine different technologies to create new solutions inexistent in the market; such as a created tiny ad-hoc frameworks, _micro-front ends_ (back in the 2016), AI decision screens, etc...
 
 - Result oriented
-  : As the current market is trending I follow the iteration pattern development. Investing time to develop quick and small features, rather than big features in smaller deliveries. Making the process more transparent we can achieve better results.
+  : As the current market is trending I follow the iteration pattern development. Investing time to develop quick and small features, rather than big features in smaller deliveries. Making the process more transparent so that we can achieve better results.
 
 ---
 
@@ -97,17 +100,17 @@ _I also carry the electronic version of the curse of Cassandra. I'm able to see 
 Components catalog @ GFT / Santander Global Tech (Spain)
 : _Product Owner / Front-End Architect_ (Spain)
 **2017-20XX**
-As a architect and product owner. I was tasked to identify key components and features to develop with a team of five to maximize the value provided that our software stack brings to entire Santander Group. Our stack is being used by more than 10 teams, without it being obligatory. Our goal is to build the components so robust, flexible and simple to become an attractive and useful asset of any project developed in the group.
+As a architect and product owner. I was tasked to identify key components and features to develop with help of a team, to maximize the value provided by our software stack used by Santander Group. Used by more than 10 teams without it being obligatory; our goal is to build it so robust, flexible and simple that it becomes an attractive asset rather than an obligation.
 
 I+D Architectural documentation @ GFT / Santander Global Tech
 : _Product Owner / Front-End Architect_ (Spain)
 **2017-20XX**
-As an architect I was tasked to create architectural and guideline documents with the help of a team of two. The main architectural document stated the chosen framework (Angular), key software principles (SOLID), software guidelines for full Santander Group. This documents and references have to be kept up to date with technology trends (event thinking) and software updates and deprecations.
+As an architect I was tasked to create architectural and guideline documents with the help of a team. The main architectural document stated the chosen framework (Angular), key software principles such as micro-front, SOLID-ness and event driven, and the software guidelines for the group. Also I'm tasked to keep the document a live and updated with the latest technology trends, software updates and deprecations.
 
 MyPage @ GFT / Santander Global Tech
 : _Product Owner / Front-End Architect_ (Spain)
 **2017-20XX**
-As a producto owner I decided to take a flexible grid system to bring customer's personalization into the financial world. As an architect I guide the multidisciplinary team to build the software in a coherent, modular and iterative life cycle. As the team used several and new technologies, I overcome my lack of specific technical knowledge with my broad vision and an abstract comprehension of any software.
+As a producto owner I decided to take a flexible grid system to bring customer's personalization into the financial world. As an architect I guide the multidisciplinary team to build the software in a coherent, modular and iterative life cycle. As the team used several and new technologies, I overcome my lack of specific technical knowledge with my broad vision and my abstract and root knowledge of any software.
 
 SIO-100 (a Artificial Intelligence project) @ bonial / kaufda.be
 : _Front-End Architect / Team leader_ (Germany)
