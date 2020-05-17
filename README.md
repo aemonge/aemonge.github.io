@@ -97,9 +97,17 @@ _I also carry the electronic version of the curse of Cassandra. I'm able to see 
 
 ### Experience {#experience}
 
+Global Banking APIs (usa) @ GFT / Santander Global Tech (Spain)
+: _technical lead / Architect_ (Spain)
+**2019-20XX**
+As a technical lead, I'm responsible of the technical coordination and alignment of a team, which is composed of
+three squads (5 members) on Spain and seven on the USA. The goal of this project it to modernize the back-end services
+in the bank, following a API-First definition, micro-services, a continuous deployment and a test-driven-development
+methodology. My main goal is to ease the developers work and at the same time raise the quality of our work overall, through architectural changes, improvements and I+D.
+
 Components catalog @ GFT / Santander Global Tech (Spain)
 : _Product Owner / Front-End Architect_ (Spain)
-**2017-20XX**
+**2017-2019**
 As a architect and product owner. I was tasked to identify key components and features to develop with help of a team, to maximize the value provided by our software stack used by Santander Group. Used by more than 10 teams without it being obligatory; our goal is to build it so robust, flexible and simple that it becomes an attractive asset rather than an obligation.
 
 I+D Architectural documentation @ GFT / Santander Global Tech
