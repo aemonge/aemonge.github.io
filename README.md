@@ -1,6 +1,6 @@
 # Andres Monge
 
-## Front-End Architect, Senior Full-Stack Developer
+## Software Front-end Architect, Senior Full-Stack Developer
 
 > +34 (622) 505-729
 > [Download PDF](resume.pdf)
@@ -9,16 +9,14 @@
 
 ### Profile {#profile}
 
----
-
 I translate KPI's into technically requirements and tasks, detailed enough to be ready to code and abstract enough to be fully described in a business and functional language. With a full background in developing and leading I can successfully teach, coach and sustain a productive Dev team to build solutions to match the desired KPI's or any other objective.
-
+<br /><br />
 As a architectural product owner my task is to identify key components and norms that will accelerate developers teams to build a more stables, robust and attractive software.
-
+<br /><br />
 As an architect I have to provide the right balance between results and maintainability, keeping up to date clients quality and quantity expectations.
-
+<br /><br />
 As a developer I invest the time making the tools to aide developers, verify correctness for following best practices, good TDD/SOLID and company values.
-
+<br /><br />
 _I also carry the electronic version of the curse of Cassandra. I'm able to see the future of technology and any project, due to my clear vision of the risks and strengths of all software life cycle_
 
 ---
