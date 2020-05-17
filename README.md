@@ -197,3 +197,9 @@ Stack Overflow: [http://stackoverflow.com/users/1360897/aemonge](http://stackove
 ---
 
 [//]: # " generated with https://github.com/there4/markdown-resume  "
+[//]: # " FeedBack: "
+[//]: # " * On profile , should be one paragraph long "
+[//]: # " * On skill, use online tools to prove the skill I claim "
+[//]: # " * Use grammarly to check my grammar. "
+[//]: # " * Fix broken links "
+[//]: # " * Group experience by company to highlight my evolution "
