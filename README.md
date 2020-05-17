@@ -11,11 +11,9 @@
 
 I translate KPI's into technically requirements and tasks, detailed enough to be ready to code and abstract enough to be fully described in a business and functional language. With a full background in developing and leading I can successfully teach, coach and sustain a productive Dev team to build solutions to match the desired KPI's or any other objective.
 <br /><br />
-As a architectural product owner my task is to identify key components and norms that will accelerate developers teams to build a more stables, robust and attractive software.
+As an architect my task is to identify key components and norms that will accelerate developers teams to build a more stables, robust and attractive software.
 <br /><br />
-As an architect I have to provide the right balance between results and maintainability, keeping up to date clients quality and quantity expectations.
-<br /><br />
-As a developer I invest the time making the tools to aide developers, verify correctness for following best practices, good TDD/SOLID and company values.
+As a leader I make sure project guidelines, and company's vision are fully comprehended by the teams members. I consider my self the bridge between the most and the least technical members of the team, proving a flow in the communication of business and technical values.
 <br /><br />
 _I also carry the electronic version of the curse of Cassandra. I'm able to see the future of technology and any project, due to my clear vision of the risks and strengths of all software life cycle_
 
@@ -24,13 +22,13 @@ _I also carry the electronic version of the curse of Cassandra. I'm able to see 
 ### Skills {#skills}
 
 - Team leader
-  : Experience since 2015 leading teams guiding members into their self-taught capacities, improving the value of the team as a whole. I'm recurrently able to transform junior and newbies developers into a senior quality developers.
+  : Experience since 2015 leading teams guiding members into their self-taught capacities, improving the value of the team as a whole. I'm recurrently able to transform junior and newbies developers into a senior quality developers. Moving from leading 3 people into leading 15 in 2020.
 
-- Creative
-  : The great expand of my technology knowledge, allows me into focusing in solutions instead of softwares. Being able to combine different technologies to create new solutions inexistent in the market; such as a created tiny ad-hoc frameworks, micro-front ends (back in the 2016), AI decision screens, etc...
+- Empowering
+  : Since my career started form developer all they way up to technical lead, I can easily share my knowledge to both developers and producto owners. I usually prefer teaching people to learn how overcome problems, rather than giving them the solution; this allows me to work smarter and not harder. My communication skills are in constant evolution and since 2017 I'm proud to keep in touch with developer that have become architects after working with me.
 
-- Result oriented
-  : As the current market is trending I follow the iteration pattern development. Investing time to develop quick and small features, rather than big features in smaller deliveries. Making the process more transparent so that we can achieve better results.
+- Scientific approach
+  : IT is always moving forward at high speeds, therefore I'm obligated to perform a full research any time there's a suggestion or a new requirement. My research tends to compare fully all the alternatives, in order to be sure we have chosen the best current solution. mY Creativity, mixed with de detail oriented allows me to have innovative and valuable results.
 
 ---
 
@@ -51,6 +49,7 @@ _I also carry the electronic version of the curse of Cassandra. I'm able to see 
 
 ### Back-End {#backEnd}
 
+1. MuleSoft, 1 years. Leading
 1. PHP, 3 years. Advanced
 1. nodeJS, 4 years. Standard
 1. Ruby/Rails, 1 year. Standard
@@ -60,7 +59,7 @@ _I also carry the electronic version of the curse of Cassandra. I'm able to see 
 ### Databases {#databases}
 
 1. MySQL, 3 years. Advanced
-1. mongoDB, 4 years. Standard
+1. mongoDB, 6 years. Standard
 
 ---
 
@@ -68,15 +67,15 @@ _I also carry the electronic version of the curse of Cassandra. I'm able to see 
 
 1. Linux, 14 years. Master
 1. Apache, 3 years. Advanced
-1. nginx, 5 years. Standard
+1. nginx, 7 years. Standard
 
 ---
 
 ### Work Flows {#workFlow}
 
-1. Git, 9 years. Master
+1. Git, 11 years. Master
 1. Svn, 3 years. Standard
-1. Jira, 7 years. Advanced
+1. Jira, 9 years. Advanced
 
 ---
 
@@ -88,22 +87,12 @@ _I also carry the electronic version of the curse of Cassandra. I'm able to see 
 
 ---
 
-### Tools {#tools}
-
-1. Vi, 9 years. Master
-1. MarkDown, 7 years. Master
-
----
-
 ### Experience {#experience}
 
 Global Banking APIs (usa) @ GFT / Santander Global Tech (Spain)
 : _technical lead / Architect_ (Spain)
 **2019-20XX**
-As a technical lead, I'm responsible of the technical coordination and alignment of a team, which is composed of
-three squads (5 members) on Spain and seven on the USA. The goal of this project it to modernize the back-end services
-in the bank, following a API-First definition, micro-services, a continuous deployment and a test-driven-development
-methodology. My main goal is to ease the developers work and at the same time raise the quality of our work overall, through architectural changes, improvements and I+D.
+As a technical lead, I'm responsible of the technical coordination and alignment of a team, which is composed of three squads (5 members) on Spain and seven on the USA. The goal of this project it to modernize the back-end services in the bank using MuleSoft. I've successfully lead the squads with product owners comprehension, into an ATDD continuos delivery methodology.  My daily work is to ease the developers work and at the same time raise the quality of our work overall, through architectural definitions, spike improvements and constant research.
 
 Components catalog @ GFT / Santander Global Tech (Spain)
 : _Product Owner / Front-End Architect_ (Spain)
