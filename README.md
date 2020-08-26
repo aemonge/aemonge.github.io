@@ -9,11 +9,11 @@
 
 ### Profile {#profile}
 
-I translate KPI's into technically requirements and tasks, detailed enough to be ready to code and abstract enough to be fully described in a business and functional language. With a full background in developing and leading I can successfully teach, coach and sustain a productive Dev team to build solutions to match the desired KPI's or any other objective.
+I translate KPI's into technically requirements and tasks, detailed enough to be ready to code and abstract enough to be fully described in a business and functional language. With a full background in developing and leading I can successfully teach, coach, guide and sustain a productive team to build.
 <br /><br />
-As an architect my task is to identify key components and norms that will accelerate developers teams to build a more stables, robust and attractive software.
+As an architect my task is make high level design choices, identify the best software infrastructure for the project in hand, identify and design key components interfaces. Since I've started as developer I coach and guide the teams by pair programming and also I can take over difficult and key developments, besides of fully supporting the team in front-end, back-end, middle-ware, and dev-ops.
 <br /><br />
-As a leader I make sure project guidelines, and company's vision are fully comprehended by the teams members. I consider my self the bridge between the most and the least technical members of the team, proving a flow in the communication of business and technical values.
+As a leader I create project guidelines and asure company's vision or product requirements are fully comprehended and followed by teams members. I consider my self the bridge between the most and the least technical members of the team, proving a flow in the communication of business and technical values.
 <br /><br />
 _I also carry the electronic version of the curse of Cassandra. I'm able to see the future of technology and any project, due to my clear vision of the risks and strengths of all software life cycle_
 
@@ -22,13 +22,13 @@ _I also carry the electronic version of the curse of Cassandra. I'm able to see 
 ### Skills {#skills}
 
 - Team leader
-  : Experience since 2015 leading teams guiding members into their self-taught capacities, improving the value of the team as a whole. I'm recurrently able to transform junior and newbies developers into a senior quality developers. Moving from leading 3 people into leading 15 in 2020.
+  : Experience since 2015 leading teams guiding members into their self-taught capacities, improving the value of the team as a whole. I'm recurrently able to transform junior and senior developers into a senior quality developers and architects. Starting the leadership from three personas into fifteen in 2020.
 
 - Empowering
-  : Since my career started form developer all they way up to technical lead, I can easily share my knowledge to both developers and producto owners. I usually prefer teaching people to learn how overcome problems, rather than giving them the solution; this allows me to work smarter and not harder. My communication skills are in constant evolution and since 2017 I'm proud to keep in touch with developer that have become architects after working with me.
+  : Since my career started form freelance full stack developer all they way up to technical lead, I can easily share my knowledge to both developers and product owners. I usually prefer teaching people to learn how overcome problems, rather than giving them the solution; this allows me to work smarter and not harder. My communication skills are in constant evolution and since 2017 I'm proud to keep in touch with developer that have become architects after working with me.
 
 - Scientific approach
-  : IT is always moving forward at high speeds, therefore I'm obligated to perform a full research any time there's a suggestion or a new requirement. My research tends to compare fully all the alternatives, in order to be sure we have chosen the best current solution. mY Creativity, mixed with de detail oriented allows me to have innovative and valuable results.
+  : IT is always moving forward at high speeds, therefore I'm obligated to perform a full research any time there's a suggestion or a new requirement. My research tends to compare fully all the alternatives, in order to be sure we have chosen the best current solution. My Creativity mixed with de detail oriented allows me to have innovative and valuable results and to see hidden opportunities.
 
 ---
 
@@ -42,7 +42,7 @@ _I also carry the electronic version of the curse of Cassandra. I'm able to see 
 1. (JS) React-Native 1 year
 1. (JS) FlighJS 1 year
 1. (JS) AngularJS 2 year
-1. (JS) Angular 1 year
+1. (JS) Angular 2 year
 1. (JS) BackboneJS 2 year
 
 ---
@@ -63,9 +63,12 @@ _I also carry the electronic version of the curse of Cassandra. I'm able to see 
 
 ---
 
-### Servers {#servers}
+### Servers / Cloud {#servers}
 
 1. Linux, 14 years. Master
+1. (Linux) Amazon Web Services. 5 Years. Advanced
+1. (Linux) Jenkins. 3 Years. Advanced
+1. (Linux) Docker. 2 Years. Advanced
 1. Apache, 3 years. Advanced
 1. nginx, 7 years. Standard
 
@@ -73,9 +76,9 @@ _I also carry the electronic version of the curse of Cassandra. I'm able to see 
 
 ### Work Flows {#workFlow}
 
-1. Git, 11 years. Master
+1. Git, 12 years. Master
 1. Svn, 3 years. Standard
-1. Jira, 9 years. Advanced
+1. Jira, 10 years. Advanced
 
 ---
 
@@ -92,7 +95,7 @@ _I also carry the electronic version of the curse of Cassandra. I'm able to see 
 Global Banking APIs (usa) @ GFT / Santander Global Tech (Spain)
 : _technical lead / Architect_ (Spain)
 **2019-20XX**
-As a technical lead, I'm responsible of the technical coordination and alignment of a team, which is composed of three squads (5 members) on Spain and seven on the USA. The goal of this project it to modernize the back-end services in the bank using MuleSoft. I've successfully lead the squads with product owners comprehension, into an ATDD continuos delivery methodology.  My daily work is to ease the developers work and at the same time raise the quality of our work overall, through architectural definitions, spike improvements and constant research.
+As a technical lead, I'm responsible of the technical coordination and alignment of a team, which is composed of three squads (5 members) on Spain and seven on the USA. The goal of this project it to modernize the back-end services in the bank integrating MuleSoft. I've successfully lead the squads with product owners comprehension, into an ATDD continuos delivery methodology.  My daily work is to ease the developers work and at the same time raise the quality of our work overall, through architectural definitions, spike improvements and constant research.
 
 Components catalog @ GFT / Santander Global Tech (Spain)
 : _Product Owner / Front-End Architect_ (Spain)
