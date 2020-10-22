@@ -21,14 +21,27 @@ _I also carry the electronic version of the curse of Cassandra. I'm able to see 
 
 ### Skills {#skills}
 
-- Team leader
-  : Experience since 2015 leading teams guiding members into their self-taught capacities, improving the value of the team as a whole. I'm recurrently able to transform junior and senior developers into a senior quality developers and architects. Starting the leadership from three personas into fifteen in 2020.
+- Empowering Leader
+  : Experience since 2015 leading teams guiding members into their self-taught capacities, improving the value of the team as a whole. I have successfully transformed interns into software developers and software architects. I usually prefer teaching/empowering persons to learn how overcome problems, rather than giving them the solution; this allows me to work smarter and not harder. Successfully managed a team of three in 2015, and now managing bigger teams up to fifteen members.
+.
 
-- Empowering
-  : Since my career started form freelance full stack developer all they way up to technical lead, I can easily share my knowledge to both developers and product owners. I usually prefer teaching people to learn how overcome problems, rather than giving them the solution; this allows me to work smarter and not harder. My communication skills are in constant evolution and since 2017 I'm proud to keep in touch with developer that have become architects after working with me.
+- Communicator
+  : When Polymer and the web-components recently came out to the market, I've organized in partnership with my company (s|ngular) weekly meet-ups where I was explaining and showing the new features that the technology brought to the world. This meet-ups where for a mixed audience from developers to CEO of different small companies, allowing me to be at the same time precise and business oriented. I've also gave hands on clases of JavaScript in general to small groups, in which I initially explain an exercise publicly.
 
-- Scientific approach
+- Methodical
   : IT is always moving forward at high speeds, therefore I'm obligated to perform a full research any time there's a suggestion or a new requirement. My research tends to compare fully all the alternatives, in order to be sure we have chosen the best current solution. My Creativity mixed with de detail oriented allows me to have innovative and valuable results and to see hidden opportunities.
+
+---
+
+### Servers / Cloud {#servers}
+
+1. Linux, 14 years. Master
+1. (Linux) AWS. 5 Years. Advanced
+1. (Linux) Jenkins. 3 Years. Advanced
+1. (Linux) Docker. 2 Years. Advanced
+1. (Linux) Azure. 1 Years. Standard
+1. Apache, 3 years. Advanced
+1. nginx, 7 years. Standard
 
 ---
 
@@ -63,17 +76,6 @@ _I also carry the electronic version of the curse of Cassandra. I'm able to see 
 
 ---
 
-### Servers / Cloud {#servers}
-
-1. Linux, 14 years. Master
-1. (Linux) Amazon Web Services. 5 Years. Advanced
-1. (Linux) Jenkins. 3 Years. Advanced
-1. (Linux) Docker. 2 Years. Advanced
-1. Apache, 3 years. Advanced
-1. nginx, 7 years. Standard
-
----
-
 ### Work Flows {#workFlow}
 
 1. Git, 12 years. Master
@@ -84,9 +86,7 @@ _I also carry the electronic version of the curse of Cassandra. I'm able to see 
 
 ### Platforms {#Platforms}
 
-1. Cordova / iOs, 1 years. Standard
-1. Cordova / Android, 1 years. Standard
-1. Cordova / Windows Tablets, 1 years. Standard
+1. Cordova, 1 years. Standard
 
 ---
 
@@ -193,13 +193,12 @@ Github: [https://github.com/aemonge](https://github.com/aemonge)
 npm: [https://www.npmjs.com/~aemonge](https://www.npmjs.com/~aemonge)
 <br />
 Stack Overflow: [http://stackoverflow.com/users/1360897/aemonge](http://stackoverflow.com/users/1360897/aemonge)
+<br />
+LinkedIn: [https://www.linkedin.com/in/aemonge/](https://www.linkedin.com/in/aemonge/)
 
 ---
 
-[//]: # " generated with https://github.com/there4/markdown-resume  "
 [//]: # " FeedBack: "
 [//]: # " * On profile , should be one paragraph long "
 [//]: # " * On skill, use online tools to prove the skill I claim "
 [//]: # " * Use grammarly to check my grammar. "
-[//]: # " * Fix broken links "
-[//]: # " * Group experience by company to highlight my evolution "

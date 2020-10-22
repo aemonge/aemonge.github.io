@@ -499,6 +499,24 @@ dl em {
   margin: .15em 0 .5em;
   font-style: bold;
 }
+dl span {
+  float: left;
+  position: relative;
+  left: -2em;
+  top: 1.5em;
+  margin-right: -1em;
+  font-size: 32px;
+}
+dl span.multi-proyect-start {
+  top: 80px;
+}
+dl span.multi-proyect-end {
+  top: 15px;
+}
+dl span.multi-proyect {
+  left: -56px;
+  font-size: 36px;
+}
 #footer {
   display: none;
 }
@@ -609,6 +627,10 @@ dl em {
     font-style: normal;
   }
 }
+.break{
+  page-break-before: always;
+  page-break-inside: avoid;
+}
 
 </style>
 </head>
@@ -651,24 +673,39 @@ As a leader I create project guidelines and asure company's vision or product re
 
 <ul>
 <li><dl>
-<dt>Team leader</dt>
+<dt>Empowering Leader</dt>
 <dd>
-Experience since 2015 leading teams guiding members into their self-taught capacities, improving the value of the team as a whole. I'm recurrently able to transform junior and newbies developers into a senior quality developers. Moving from leading 3 people into leading 15 in 2020.
+Experience since 2015 leading teams guiding members into their self-taught capacities, improving the value of the team as a whole. I have successfully transformed interns into software developers and software architects. I usually prefer teaching/empowering persons to learn how overcome problems, rather than giving them the solution; this allows me to work smarter and not harder. Successfully managed a team of three in 2015, and now managing bigger teams up to fifteen members.
 </dd>
 </dl></li>
 <li><dl>
-<dt>Empowering</dt>
+<dt>Communicator</dt>
 <dd>
-Since my career started form developer all they way up to technical lead, I can easily share my knowledge to both developers and producto owners. I usually prefer teaching people to learn how overcome problems, rather than giving them the solution; this allows me to work smarter and not harder. My communication skills are in constant evolution and since 2017 I'm proud to keep in touch with developer that have become architects after working with me.
+  When Polymer and the web-components recently came out to the market, I've organized in partnership with my company (s|ngular) weekly meet-ups where I was explaining and showing the new features that the technology brought to the world. This meet-ups where for a mixed audience from developers to CEO of different small companies, allowing me to be at the same time precise and business oriented. I've also gave hands on clases of JavaScript in general to small groups, in which I initially explain an exercise publicly.
 </dd>
 </dl></li>
 <li><dl>
-<dt>Scientific approach</dt>
+<dt>Methodical</dt>
 <dd>
-IT is always moving forward at high speeds, therefore I'm obligated to perform a full research any time there's a suggestion or a new requirement. My research tends to compare fully all the alternatives, in order to be sure we have chosen the best current solution. mY Creativity, mixed with de detail oriented allows me to have innovative and valuable results.
+IT is always moving forward at high speeds, therefore I'm obligated to perform a full research any time there's a suggestion or a new requirement. My research tends to compare fully all the alternatives, in order to be sure we have chosen the best current solution. My Creativity, mixed with de detail oriented allows me to have innovative and valuable results.
 </dd>
 </dl></li>
 </ul>
+</ul>
+
+<hr class="break"/>
+
+<h3 id="servers">Servers / Cloud</h3>
+
+<ol>
+<li>Linux, 14 years. Master</li>
+<li>(Linux) AWS. 5 Years. Advanced</li>
+<li>(Linux) Jenkins. 3 Years. Advanced</li>
+<li>(Linux) Docker. 2 Years. Advanced</li>
+<li>(Linux) Azure. 1 Years. Standard</li>
+<li>Apache, 3 years. Advanced</li>
+<li>nginx, 7 years. Standard</li>
+</ol>
 
 <hr />
 
@@ -707,20 +744,7 @@ IT is always moving forward at high speeds, therefore I'm obligated to perform a
 <li>mongoDB, 4 years. Standard</li>
 </ol>
 
-<hr />
-
-<h3 id="servers">Servers / Cloud</h3>
-
-<ol>
-<li>Linux, 14 years. Master</li>
-<li>(Linux) Amazon Web Services. 5 Years. Advanced</li>
-<li>(Linux) Jenkins. 3 Years. Advanced</li>
-<li>(Linux) Docker. 2 Years. Advanced</li>
-<li>Apache, 3 years. Advanced</li>
-<li>nginx, 7 years. Standard</li>
-</ol>
-
-<hr />
+<hr class="break"/>
 
 <h3 id="workFlow">Work Flows</h3>
 
@@ -735,9 +759,7 @@ IT is always moving forward at high speeds, therefore I'm obligated to perform a
 <h3 id="Platforms">Platforms</h3>
 
 <ol>
-<li>Cordova / iOs, 1 years. Standard</li>
-<li>Cordova / Android, 1 years. Standard</li>
-<li>Cordova / Windows Tablets, 1 years. Standard</li>
+<li>Cordova, 1 years. Standard</li>
 </ol>
 
 <hr />
@@ -745,33 +767,47 @@ IT is always moving forward at high speeds, therefore I'm obligated to perform a
 <h3 id="experience">Experience</h3>
 
 <dl>
+
+<span>◎</span>
+<span class="multi-proyect multi-proyect-start">‖</span>
 <dt>Global Banking APIs @ GFT / Santander Global Tech</dt>
 <dd><em>Technical lead / Architect </em> (Spain)
 <strong>2019-20XX</strong>
 As a technical lead, I'm responsible of the technical coordination and alignment of a team, which is composed of three squads (5 members) on Spain and seven on the USA. The goal of this project it to modernize the back-end services in the bank using MuleSoft. I've successfully lead the squads with product owners comprehension, into an ATDD continuos delivery methodology.  My daily work is to ease the developers work and at the same time raise the quality of our work overall, through architectural definitions, spike improvements and constant research.
 </dd>
 
+<span class="multi-proyect">‖</span>
 <dt>Components catalog @ GFT / Santander Global Tech</dt>
 <dd><em>Product Owner / Front-End Architect</em> (Spain)
 <strong>2017-2019</strong>
 As a architect and product owner. I was tasked to identify key components and features to develop with help of a team, to maximize the value provided by our software stack used by Santander Group. Used by more than 10 teams without it being obligatory; our goal is to build it so robust, flexible and simple that it becomes an attractive asset rather than an obligation.</dd>
 
+<span class="multi-proyect">‖</span>
 <dt>I+D Architectural documentation @ GFT / Santander Global Tech</dt>
 <dd><em>Product Owner / Front-End Architect</em> (Spain)
 <strong>2017-20XX</strong>
 As an architect I was tasked to create architectural and guideline documents with the help of a team. The main architectural document stated the chosen framework (Angular), key software principles such as micro-front, SOLID-ness and event driven, and the software guidelines for the group. Also I&#8217;m tasked to keep the document a live and updated with the latest technology trends, software updates and deprecations.</dd>
 
+</dl>
+<h3 class="break"></h3>
+<dl>
+
+<span class="multi-proyect multi-proyect-end">‖</span>
+<span>◎</span>
 <dt>MyPage @ GFT / Santander Global Tech</dt>
 <dd><em>Product Owner / Front-End Architect</em> (Spain)
 <strong>2017-20XX</strong>
 As a producto owner I decided to take a flexible grid system to bring customer&#8217;s personalization into the financial world. As an architect I guide the multidisciplinary team to build the software in a coherent, modular and iterative life cycle. As the team used several and new technologies, I overcome my lack of specific technical knowledge with my broad vision and my abstract and root knowledge of any software.</dd>
 
+<span class="single-proyect">◎</span>
 <dt>SIO-100 (a Artificial Intelligence project) @ bonial / kaufda.be</dt>
 <dd><em>Front-End Architect / Team leader</em> (Germany)
 <strong>2016-2017</strong>
 As an architect, I&#8217;ve decided to use Polymer for the project (AI decisions confirmations) since the team is distributed in small standalone micro-services so relaying on scope protection and encapsulation that polymer provides increased the productivity of the front-end screens. Replicated the environment of previews projects TDD, CI, Artifactory and an atomic modular designe pattern.
 <a href="https://www.kaufda.de/webapp/de/shelf/52.520008/13.404954">kaufda</a></dd>
 
+<span>◎</span>
+<span class="multi-proyect multi-proyect-start">‖</span>
 <dt>TabletBanking @ s|ngular / BBVA Compass</dt>
 <dd><em>Front-End Architect / Team leader</em> (USA)
 <strong>2015-2017</strong>
@@ -780,33 +816,46 @@ feature requested by product owner and architects. We used a TDD methodology and
 230 (Polymer.js) web-components. We delivered to tablet, mobile and desktop applications using contiguous integration (jenkins), Cordova and artifactory to host the components as dependencies.
 <a href="https://play.google.com/store/apps/details?id=com.bbva.compass.cells.enterprise">TabletBanking</a></dd>
 
+<span class="multi-proyect">‖</span>
 <dt>Hoy Necesito @ s|ngular / BBVA</dt>
 <dd><em>Front-End team leader</em> (Spain)
 <strong>2014-2015</strong>
 As a team lead I helped product owners with estimations, and created an analysis for the features requested. I&#8217;ve taught the team Angular.js in the most component based way (mainly using ngModules and directives). As a senior developer I wrote a full page feature in ReactJS wrapped inside and Angular directive. The focus on react was performance since the feature required a live update of a calendar events. We also relayed on GULP / GRUNT to deliver our code and Git-flow to ensure code maintenance</dd>
 
+<span class="multi-proyect multi-proyect-end">‖</span>
+<span>◎</span>
 <dt>Online Banking @ s|ngular / BBVA Compass</dt>
 <dd><em>Front-End developer</em> (Spain)
 <strong>2013-2014</strong>
 As a senior developer I&#8217;ve help in the process of changing the mindset form classic MVC/jQuery into a modular/component-based development. We used FlightJs as our main framework under SCRUM/Agile workflow. The project relied on the template engine and few key JavaScript components (which I was the lead developer for).
 <a href="http://bbvacompass.com/">bbvacompass</a></dd>
 
+<span class="single-proyect">◎</span>
 <dt>Universidad Rey Juan Carlos</dt>
 <dd><em>Web Developer</em> (Spain)
 <strong>2013</strong>
 As a full-stack developer I created a dynamic template and plugins for a Joomla based web. The initial solution was based in Word-press with an ad-hock WYSIWYG to provide the ability of creating and modifying pages. After moving the project into Joomla the template was build with a lot of flexibility.
 <a href="https://www.urjc.es/">URJC</a></dd>
 
+</dl>
+<h3 class="break"></h3>
+<dl>
+
+<span>◎</span>
+<span class="multi-proyect multi-proyect-start">‖</span>
 <dt>Component Catalogue @ Adesis / Mapfre</dt>
 <dd><em>Front-End Architect / Expert Developer</em> (Spain)
 <strong>2013</strong>
 As a expert reference I was responsible for code reviews, code analysis and quality assurance that the developers of Mapfre (the client) delivered. I had improve the current developers skills, practices and guiding them into the best developers. Our main area of focus was JavaScript, Angular, CSS and Jade as the template engine.</dd>
 
+<span class="multi-proyect multi-proyect-end">‖</span>
+<span>◎</span>
 <dt>Personal Finance Manager @ Adesis</dt>
 <dd><em>Front-End Developer</em> (Spain)
 <strong>2013</strong>
 As a full-stack developer In little less than a month and a half, I&#8217;ve develop by my self a fully operational finance manager. Provided with the graphical designes I build the app using nodeJS (sails) and AngularJs from scratch. I&#8217;ve made the all the decisions including the architecture, technologies and work-methodology. The project was latter on improved and used for years.</dd>
 
+<span class="single-proyect">◎</span>
 <dt>RedPacientes, social network @ CBI</dt>
 <dd><em>Full-Stack Developer</em> (Spain)
 <strong>2011-2013</strong>
@@ -814,6 +863,8 @@ As a full-stack developer I used mainly SQL functions, a PHP controller and Java
 I Also helped developing modules of a bigger app that was being built. We were replication a CRM (such as SAP), providing support by IE7 and greater, besides modern browsers. Everything done with a proprietary framework which we also had to maintain and update.
 <a href="http://redpacientes.com/">Red Pacientes</a></dd>
 
+<span>◎</span>
+<span class="multi-proyect multi-proyect-start">‖</span>
 <dt>No llores Patito</dt>
 <dd><em>Full-Stack Developer</em> (Spain)
 <strong>2011</strong>
@@ -821,18 +872,26 @@ Online shop, created with a custom framework similar to CakePHP. The main focus 
 the front-end was basically tweaking a paid template.
 <a href="http://www.nollorespatito.com/">No Llores Patito</a></dd>
 
+<span class="multi-proyect">‖</span>
 <dt>Ananda Pascual</dt>
 <dd><em>Full-Stack Developer</em> (Spain)
 <strong>2010</strong>
 Online store for clothing. Built with osCommerce, and few ad-hock plugins to manage the landing page. There was also a TPV (payment conector) to develop and integrate with Spanish banks (CajaMar and CajaSol), and a API integration with real-time stock handling service (&#8220;seleris&#8221;).
 <a href="http://www.anandapascual.eu/">Ananda Pascual</a></dd>
 
+</dl>
+<h3 class="break"></h3>
+<dl>
+
+<span class="multi-proyect multi-proyect-end">‖</span>
+<span>◎</span>
 <dt>Los hijos de la Malinche</dt>
 <dd><em>Full-Stack Developer</em> (Mexico)
 <strong>2008-2010</strong>
 An political and opinionated e-maganized. It mainly sponsored by the Mexican newspaper &#8220;Reforma&#8221;. Built with Drupal for the content manager, and custom templates for both back-end (the admin manager site) and front-end. Front-end was improved with jQuery and jQuery plugins.
 <a href="http://www.loshijosdelamalinche.com/">Los Hijos de la Malinche</a></dd>
 
+<span class="single-proyect">◎</span>
 <dt>Internship and S.E.O. @ KnowCentury</dt>
 <dd><em>Full-Stack Developer</em> (Spain)
 <strong>2008-2009</strong>
@@ -847,8 +906,10 @@ As an intern in the first six moths I was laddering the new department of search
 <br />
 npm: <a href="https://www.npmjs.com/~aemonge">https://www.npmjs.com/~aemonge</a>
 <br />
-Stack Overflow: <a href="http://stackoverflow.com/users/1360897/aemonge">http://stackoverflow.com/users/1360897/aemonge</a></p>
-
+Stack Overflow: <a href="http://stackoverflow.com/users/1360897/aemonge">http://stackoverflow.com/users/1360897/aemonge</a>
+<br />
+LinkedIn: <a href="https://www.linkedin.com/in/aemonge/">https://www.linkedin.com/in/aemonge/</a></p>
+</p>
 <hr />
 
     </div>
