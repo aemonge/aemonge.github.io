@@ -1,2 +1,0 @@
-./libs/markdown-resume/bin/md2resume html README.md . && mv README.html index.html
-./libs/markdown-resume/bin/md2resume pdf README.md . && mv README.pdf resume.pdf
