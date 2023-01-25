@@ -84,7 +84,7 @@ I provide value by translating KPI's or any business requirements into meaningfu
       pdfjsLib.getDocument(url).promise.then(renderPages)
     }
 
-    renderPDF("Tech Lead - Andres Monge - Resume.pdf", document.querySelector('#render')) //div element
+    renderPDF("https://github.com/aemonge/aemonge/raw/main/Tech%20Lead%20-%20Andres%20Monge.pdf", document.querySelector('#render')) //div element
         document.querySelector('#render').addEventListener('click', () => {
           let link=document.createElement('a');
           document.body.appendChild(link);
